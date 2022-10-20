@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+#header{
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+}
+.nav{
+    border-bottom: 2px solid black;
+}
+.nav a{
+    color: white ;
+    font-weight: 900;
+    margin-right: 200px;
+    font-style: normal;
+    flex: none;
+}
+
+.hero-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    color: white;
+
+}
+.hero-items h1{
+    width: 100px;
+    font-size: 48px;
+    background: black
+}
+.aza{
+    width: 200px;
+    font-size: 18px;
+    line-height: 22px;
+}
+.shuke{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.kutia{
+    background: url("img/aa.jpg") no-repeat center/cover;
+    width: 100%;
+    min-height: 90vh;
+
+}
+
+body{
+    background: url("img/sss.jpg");
+
+}
+.aka{
+    text-align: center;
+
+}
+.double-item{
+    background: 100px;
+    margin: 20px;
+}
+.andai{
+    text-align: center;
+    width: 700px;
+    
+}
+
+
